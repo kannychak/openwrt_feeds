@@ -1,7 +1,3 @@
 [submodule "luci-app-syncthing"]
 	path = luci-app-syncthing
 	url = http://github.com/kannychak/luci-app-syncthing.git
-
-[submodule "luci-theme-argon"]
-	path = luci-theme-argon
-	url =  https://github.com/jerrykuku/luci-theme-argon
